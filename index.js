@@ -41,7 +41,7 @@ client.on("message", message => {
 
     message.channel.send(embed)
 })
-    }, 40000) //I recommend to put it above 40s to not abuse Discord Api lol
+    }, 20000) //I recommend to put it above 20s to not abuse Discord Api lol
 
     }
 });
