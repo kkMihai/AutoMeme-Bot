@@ -17,8 +17,8 @@ client.on("message", message => {
     msg.edit("🔄 **| AutoMeme Starting... (`Please Wait 20s`)**")
    setTimeout(function(){
     msg.edit("✅ **| AutoMeme Started**")
-    }, 20000)
-   }, 20000)
+    }, 10000)
+   }, 10000)
    })  //edit the message to look cool
     setInterval(() => {
     got("https://www.reddit.com/r/memes/random/.json").then(response => {
