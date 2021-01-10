@@ -1,0 +1,16 @@
+{
+  "name": "AutoMeme-Bot",
+  "version": "1.0.0",
+  "author": "Mihai_Cit",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.5.0",
+    "got": "^11.8.1"
+  },
+  "engines": {
+    "node": "12.x"
+  }
+}
