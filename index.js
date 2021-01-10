@@ -46,4 +46,4 @@ client.on("message", message => {
     }
 });
 
-client.login("YOU RBOT TOKEN");
+client.login("YOUR BOT TOKEN");
