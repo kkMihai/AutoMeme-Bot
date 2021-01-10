@@ -1,6 +1,6 @@
 ## AutoMeme-Bot 👻🤣
 
-### **Very Simple AutoMeme Bot bc yea**
+**Very Simple AutoMeme Bot bc yea**
 
 ### Requirements:
 ```
